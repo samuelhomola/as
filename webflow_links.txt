@@ -1,0 +1,5 @@
+https://cdn.prod.website-files.com/601d10ad6d20206d7e22c698/6051f2800d34319caa568e79_Inter-Bold.woff2
+https://cdn.prod.website-files.com/601d10ad6d20206d7e22c698/6051f280dc34b2cae434a3f0_Inter-Medium.woff2
+https://cdn.prod.website-files.com/601d10ad6d20206d7e22c698/6051f281b094b758ad0994fa_Inter-Regular.woff2
+https://cdn.prod.website-files.com/601d10ad6d20206d7e22c698/6051f281df0b26aced0d4ba6_Inter-SemiBold.woff2
+https://cdn.prod.website-files.com/601d10ad6d20206d7e22c698/609a4e4305e113be40cd0f9a_lottieflow-menu-nav-07-000000-easey.json
